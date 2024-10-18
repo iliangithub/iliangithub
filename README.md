@@ -1,12 +1,20 @@
 ![Ilian Iliev Lubenov](https://github.com/user-attachments/assets/c393c5ec-9dd2-42c0-8bb5-2768f3160b48)
 
 <h3 align="left">Connect with me</h3>
-<p align="left">
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>LinkedIn: www.linkedin.com/in/ilian-iliev-lubenov-1baba22bb <br>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /> eMail: ilianlubenov23@gmail.com
+  <p>
+    AWS Azure
+  </p>
+    <p>
+    Monitoring:<br>
+  </p>
+    <p>
+    Cloud Computing:<br>
+  </p>
+    <p>
+    Cloud Computing:<br>
+  </p>
 </div>
-</p>
 
 <h3 align="right">About Me</h3>
 <p align="right">
