@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-  LinkedIn:
+  LinkedIn: www.linkedin.com/in/ilian-iliev-lubenov-1baba22bb <br>
   eMail:
 </p>
 
