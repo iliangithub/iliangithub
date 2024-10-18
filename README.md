@@ -2,8 +2,12 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-  LinkedIn: www.linkedin.com/in/ilian-iliev-lubenov-1baba22bb <br>
-  eMail:
+   ###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>LinkedIn: www.linkedin.com/in/ilian-iliev-lubenov-1baba22bb <br>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /> eMail:
+</div>
 </p>
 
 <h3 align="right">About Me</h3>
