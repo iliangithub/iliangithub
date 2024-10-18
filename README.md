@@ -2,18 +2,7 @@
 
 <h3 align="left">Connect with me</h3>
 <div align="left">
-  <p>
-    AWS Azure
-  </p>
-    <p>
-    Monitoring:<br>
-  </p>
-    <p>
-    Cloud Computing:<br>
-  </p>
-    <p>
-    Cloud Computing:<br>
-  </p>
+
 </div>
 
 <h3 align="right">About Me</h3>
