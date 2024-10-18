@@ -1,10 +1,12 @@
 ![Ilian Iliev Lubenov](https://github.com/user-attachments/assets/c393c5ec-9dd2-42c0-8bb5-2768f3160b48)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
+  LinkedIn:
+  eMail:
 </p>
 
-<h3 align="right">:About Me</h3>
+<h3 align="right">About Me</h3>
 <p align="right">
   I am a student aspiring to become a future DevOps Engineer. <br>
   My main interests in the field of IT are cybersecurity, databases, and of course,<br>
