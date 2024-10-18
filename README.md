@@ -37,4 +37,4 @@
 </div>
 
 
-Last update: 18 / 10 / 2024
+<p align="center">Last update: 18 / 10 / 2024 </p>
