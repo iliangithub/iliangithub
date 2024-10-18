@@ -1,6 +1,9 @@
 ![Ilian Iliev Lubenov](https://github.com/user-attachments/assets/c393c5ec-9dd2-42c0-8bb5-2768f3160b48)
 
 <h3 align="left">Connect with me</h3>
+
+<p align="left"> <a href="https://www.linkedin.com/in/ilian-iliev-lubenov-1baba22bb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>My LinkedIn profile</p>
+
 <div align="left">
 
 </div>
