@@ -48,3 +48,17 @@
 
 
 <p align="center">Last update: 18 / 10 / 2024 </p>
+
+
+
+
+
+
+
+
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
