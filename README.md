@@ -35,7 +35,8 @@
 
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) 
 
-<a href='' target="_blank"><img alt='aws' src='https://img.shields.io/badge/centreon-100000?style=for-the-badge&logo=aws&logoColor=white&labelColor=black&color=8DFFB3'/></a>
+<a href='' target="_blank"><img alt='aws' src='https://img.shields.io/badge/centreon-100000?style=for-the-badge&logo=aws&logoColor=white&labelColor=black&color=8DFFB3'/></a> ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
 
 </div>
 <h4 align="right">Programming Languages (not my strongest side):</h4>
