@@ -38,6 +38,7 @@
 
 <a href='' target="_blank"><img alt='aws' src='https://img.shields.io/badge/centreon-100000?style=for-the-badge&logo=aws&logoColor=white&labelColor=black&color=8DFFB3'/></a> ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 <h4 align="right">Programming Languages (not my strongest side):</h4>
