@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="carta_presentación" src="https://github.com/user-attachments/assets/c5dbf620-3c72-466c-a3d9-7de0cfde45b6" />
+<img width="1280" height="720" alt="carta_presentación" src="https://github.com/user-attachments/assets/c5dbf620-3c72-466c-a3d9-7de0cfde45b6" />
 
 <h3 align="left">Connect with me</h3>
 
