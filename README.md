@@ -10,9 +10,7 @@
 
 
 <p align="left">
-<img width="32" height="32" alt="Gmail_icon_(2020) svg" src="https://github.com/user-attachments/assets/a9495fb5-68a4-46d8-b3a9-319a69976c25" />
-
-  ilianlubenov23@gmail.com
+<img width="32" height="32" alt="Gmail_icon_(2020) svg" src="https://github.com/user-attachments/assets/a9495fb5-68a4-46d8-b3a9-319a69976c25" /> ilianlubenov23@gmail.com
 </p>
 
 
