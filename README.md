@@ -7,11 +7,6 @@
 </p>
 
 
-<p align="left">
-<img width="32" height="32" alt="Gmail_icon_(2020) svg" src="https://github.com/user-attachments/assets/a9495fb5-68a4-46d8-b3a9-319a69976c25" /> ilianlubenov23@gmail.com
-</p>
-
-
 <h3 align="right">About Me</h3>
 <p align="right">
   I am a Master's student in Cybersecurity, aspiring to build a professional career in the IT sector. <br>
