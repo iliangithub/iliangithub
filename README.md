@@ -14,9 +14,9 @@
 
 <h3 align="right">About Me</h3>
 <p align="right">
-  I am a student aspiring to become a future DevOps Engineer. <br>
-  My main interests in the field of IT are cybersecurity, databases, and of course,<br>
-  Cloud Computing and the DevOps philosophy. 
+  I am a Master's student in Cybersecurity, aspiring to build a professional career in the IT sector. <br>
+  My main interests include cybersecurity, cloud computing, and the DevOps philosophy.<br>
+  I regularly use this space to share personal projects and document what I’m learning.
 </p>
 
 
