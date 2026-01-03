@@ -4,7 +4,6 @@
 
 <p align="left">
   <img width="32" height="32" alt="LinkedIn_logo_initials" src="https://github.com/user-attachments/assets/0c6ec7d1-ffc6-4efb-bfbe-8ba5b98ef976" /> www.linkedin.com/in/ilianlubenov
-
 </p>
 
 
