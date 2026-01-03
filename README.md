@@ -2,7 +2,11 @@
 
 <h3 align="left">Connect with me</h3>
 
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>www.linkedin.com/in/ilianlubenov</p>
+<p align="left">
+  <img width="1024" height="1024" alt="LinkedIn_logo_initials" src="https://github.com/user-attachments/assets/0c6ec7d1-ffc6-4efb-bfbe-8ba5b98ef976" />
+  www.linkedin.com/in/ilianlubenov
+
+</p>
 
 
 <p align="left">
