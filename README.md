@@ -1,4 +1,4 @@
-![Ilian Iliev Lubenov](https://github.com/user-attachments/assets/c393c5ec-9dd2-42c0-8bb5-2768f3160b48)
+
 
 <h3 align="left">Connect with me</h3>
 
