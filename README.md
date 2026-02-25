@@ -1,12 +1,5 @@
 <img width="1920" height="1080" alt="theme" src="https://github.com/user-attachments/assets/ebfd02ca-3d66-4bab-a04b-de43c3650e60" />
 
-<h3 align="left">Connect with me</h3>
-
-<p align="left">
-  <img width="32" height="32" alt="LinkedIn_logo_initials" src="https://github.com/user-attachments/assets/0c6ec7d1-ffc6-4efb-bfbe-8ba5b98ef976" /> www.linkedin.com/in/ilianl
-</p>
-
-
 <h3 align="right">About Me</h3>
 <p align="right">
   I am a Master's student in Cybersecurity, aspiring to build a professional career in the IT sector. <br>
