@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Blue Red Minimalist Corporate Business Social Media Management Plan Presentation (2)" src="https://github.com/user-attachments/assets/761189ed-4791-4f1f-ac88-724385c1ce64" />
+<img width="1920" height="1080" alt="Blue Red Minimalist Corporate Business Social Media Management Plan Presentation (2)" src="https://github.com/user-attachments/assets/7461c4b9-ff32-49f7-af2e-ed445e272e5d" />
 
 <h3 align="right">About Me</h3>
 <p align="right">
